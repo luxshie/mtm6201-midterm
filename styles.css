@@ -502,7 +502,7 @@ header img {
     }
        
     @media screen and (max-width: 767px) {
-        .person-4 img.portrait--large {
+        .person-4 img.portrait-4-large {
             display: none;
         }
     }
